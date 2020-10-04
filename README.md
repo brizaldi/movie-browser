@@ -3,6 +3,9 @@
 
 Another movie app using data from [The Movie DB](https://www.themoviedb.org) based on Android & Kotlin.<br>
 
+## Download
+Download the app from the [release page](https://github.com/brizaldi/movie-browser/releases).
+
 ## How to build on your environment
 Add your API key in local.properties file.
 ```xml
