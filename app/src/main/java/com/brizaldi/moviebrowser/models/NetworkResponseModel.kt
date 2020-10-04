@@ -1,0 +1,3 @@
+package com.brizaldi.moviebrowser.models
+
+interface NetworkResponseModel
